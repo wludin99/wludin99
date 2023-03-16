@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Liam
 - 👀 I’m interested in the intersections of mathematics, computer science, neuroscience, and linguistics
 - 🌱 I’m currently learning TensorFlow, 日本語
-- 💞️ I’m looking to collaborate on manifold discovery algorithms
 - 📫 How to reach me: wludin99 at mit dot edu
 
 <!---
